@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":android:androidTest" external.linked.project.path="$MODULE_DIR$/../../../android" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.type="sourceSet" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="4" platform="JVM 1.8" allPlatforms="JVM [1.8]" useProjectSettings="false">
+        <compilerSettings>
+          <option name="additionalArguments" value="-Xallow-no-source-files" />
+        </compilerSettings>
+        <compilerArguments>
+          <option name="destination" value="$MODULE_DIR$/../../../android/build/tmp/kotlin-classes/debugAndroidTest" />
+          <option name="classpath" value="$USER_HOME$/.gradle/caches/transforms-3/c1af21438145da945dbab7aa66f56677/transformed/gdx-controllers-android-2.2.1-api.jar;C:/Users/david/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.11.0/f6e321f1aced1706402c4ebd7ddd55526dabc572/gdx-backend-android-1.11.0.jar;C:/Users/david/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-freetype/1.11.0/a3634ad2e6c56d251268d6ab5c0f66eee2841f2c/gdx-freetype-1.11.0.jar;C:/Users/david/.gradle/caches/modules-2/files-2.1/com.badlogicgames.ashley/ashley/1.7.4/21a3a8932919099c4e5006a7d8378dcbe76ef8a5/ashley-1.7.4.jar;C:/Users/david/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-ai/1.8.2/ab75d2ce80ab1b1ce6828a15dc0f417abac4c674/gdx-ai-1.8.2.jar;C:/Users/david/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.11.0/ad4facee800dd945d6d6e93dea2936bc135b5f/gdx-box2d-1.11.0.jar;C:/Users/david/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.6.21/11ef67f1900634fd951bad28c53ec957fabbe5b8/kotlin-stdlib-1.6.21.jar;C:/Users/david/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.11.0/ffe1206d1004cd9e40027e28964be0fea0399af7/gdx-1.11.0.jar;C:/Users/david/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx-controllers/gdx-controllers-core/2.2.1/8aca0dc002a8daf6a6d28f49c44e25189dd93fd7/gdx-controllers-core-2.2.1.jar;C:/Users/david/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.6.21/5e5b55c26dbc80372a920aef60eb774b714559b8/kotlin-stdlib-common-1.6.21.jar;C:/Users/david/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar;C:/Users/david/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-jnigen-loader/2.3.1/2d472f69243631fbcb3d4c3f93dd2e137a6cb084/gdx-jnigen-loader-2.3.1.jar;C:/Users/david/AppData/Local/Android/Sdk/platforms/android-32/android.jar;C:/Users/david/AppData/Local/Android/Sdk/build-tools/32.0.0/core-lambda-stubs.jar" />
+          <option name="noStdlib" value="true" />
+          <option name="moduleName" value="android_debug" />
+          <option name="friendPaths">
+            <array>
+              <option value="$MODULE_DIR$/../../../android/build/tmp/kotlin-classes/debug" />
+              <option value="$MODULE_DIR$/../../../android/build/intermediates/javac/debug/classes" />
+              <option value="$MODULE_DIR$/../../../android/build/intermediates/compile_app_classes_jar/debug/classes.jar" />
+            </array>
+          </option>
+          <option name="languageVersion" value="1.6" />
+          <option name="apiVersion" value="1.6" />
+          <option name="pluginOptions">
+            <array />
+          </option>
+          <option name="pluginClasspaths">
+            <array />
+          </option>
+          <option name="errors">
+            <ArgumentParseErrors />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="ASSEMBLE_TASK_NAME" value="assembleDebug" />
+        <option name="COMPILE_JAVA_TASK_NAME" value="compileDebugSources" />
+        <afterSyncTasks>
+          <task>generateDebugSources</task>
+        </afterSyncTasks>
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../android/res;file://$MODULE_DIR$/../../../android/src/debug/res;file://$MODULE_DIR$/../../../android/build/generated/res/rs/debug;file://$MODULE_DIR$/../../../android/build/generated/res/resValues/debug" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../android/src/androidTest/res;file://$MODULE_DIR$/../../../android/src/androidTestDebug/res;file://$MODULE_DIR$/../../../android/build/generated/res/rs/androidTest/debug;file://$MODULE_DIR$/../../../android/build/generated/res/resValues/androidTest/debug" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/../assets" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../android/build/generated/aidl_source_output_dir/debugAndroidTest/out" />
+    <content url="file://$MODULE_DIR$/../../../android/build/generated/ap_generated_sources/debugAndroidTest/out" />
+    <content url="file://$MODULE_DIR$/../../../android/build/generated/renderscript_source_output_dir/debugAndroidTest/out" />
+    <content url="file://$MODULE_DIR$/../../../android/build/generated/res/resValues/androidTest/debug" />
+    <content url="file://$MODULE_DIR$/../../../android/build/generated/res/rs/androidTest/debug" />
+    <content url="file://$MODULE_DIR$/../../../android/build/generated/source/buildConfig/androidTest/debug" />
+    <content url="file://$MODULE_DIR$/../../../android/src/androidTest" />
+    <content url="file://$MODULE_DIR$/../../../android/src/androidTestDebug" />
+    <orderEntry type="jdk" jdkName="Android API 32 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Chaos.android.main" scope="TEST" />
+    <orderEntry type="module" module-name="Chaos.core.main" scope="TEST" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.badlogicgames.gdx:gdx-backend-android:1.11.0" level="project" />
+    <orderEntry type="module-library" scope="TEST">
+      <library name="Gradle: com.badlogicgames.gdx:gdx:1.11.0">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.11.0/ffe1206d1004cd9e40027e28964be0fea0399af7/gdx-1.11.0.jar!/" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.11.0/f14119fc8ded4d354ed8423469c4cf610f41312/gdx-1.11.0-javadoc.jar!/" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.11.0/ea3e9eccc5c09636f405e345039b62376465a6f4/gdx-1.11.0-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library name="Gradle: com.badlogicgames.gdx:gdx-jnigen-loader:2.3.1">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-jnigen-loader/2.3.1/2d472f69243631fbcb3d4c3f93dd2e137a6cb084/gdx-jnigen-loader-2.3.1.jar!/" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-jnigen-loader/2.3.1/fb385783eebaf04e9f48392dd76e0b46575d5647/gdx-jnigen-loader-2.3.1-javadoc.jar!/" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-jnigen-loader/2.3.1/8228a038af98f2d0fa7b23ea7b4fa330af832305/gdx-jnigen-loader-2.3.1-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library name="Gradle: com.badlogicgames.gdx:gdx-freetype:1.11.0">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-freetype/1.11.0/a3634ad2e6c56d251268d6ab5c0f66eee2841f2c/gdx-freetype-1.11.0.jar!/" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-freetype/1.11.0/abeec3de827da54a4da29af50374c84c7f07863d/gdx-freetype-1.11.0-javadoc.jar!/" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-freetype/1.11.0/bce6d994984a1dc4d6ef0b5783ae3b7ba7a8848/gdx-freetype-1.11.0-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library name="Gradle: com.badlogicgames.ashley:ashley:1.7.4">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.ashley/ashley/1.7.4/21a3a8932919099c4e5006a7d8378dcbe76ef8a5/ashley-1.7.4.jar!/" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.ashley/ashley/1.7.4/b54c105730303ca932302fb9805f8714ed2ff2c7/ashley-1.7.4-javadoc.jar!/" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.ashley/ashley/1.7.4/57c05320ce48240c78d2c9b7612d68451033a53c/ashley-1.7.4-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library name="Gradle: com.badlogicgames.gdx:gdx-ai:1.8.2">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-ai/1.8.2/ab75d2ce80ab1b1ce6828a15dc0f417abac4c674/gdx-ai-1.8.2.jar!/" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-ai/1.8.2/7ea854595128b1fd2cd9fb5bcfb8a284b6721a17/gdx-ai-1.8.2-javadoc.jar!/" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-ai/1.8.2/d4ebedb981c35c8d67605b4875d6649292f3544d/gdx-ai-1.8.2-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library name="Gradle: com.badlogicgames.gdx-controllers:gdx-controllers-core:2.2.1">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx-controllers/gdx-controllers-core/2.2.1/8aca0dc002a8daf6a6d28f49c44e25189dd93fd7/gdx-controllers-core-2.2.1.jar!/" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx-controllers/gdx-controllers-core/2.2.1/115de6a9cacff327ad727656b45359eb092df489/gdx-controllers-core-2.2.1-javadoc.jar!/" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx-controllers/gdx-controllers-core/2.2.1/dc2dc16ae45cf551d3bd5c537fa00a0033e6057f/gdx-controllers-core-2.2.1-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library name="Gradle: com.badlogicgames.gdx:gdx-box2d:1.11.0">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.11.0/ad4facee800dd945d6d6e93dea2936bc135b5f/gdx-box2d-1.11.0.jar!/" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.11.0/3417e21c87bb034c2a1232bbd290ba0feac7cbc5/gdx-box2d-1.11.0-javadoc.jar!/" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.11.0/9144f60b55bed339c5ce85041fae0eaa0ff3d04e/gdx-box2d-1.11.0-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.6.21">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.6.21/11ef67f1900634fd951bad28c53ec957fabbe5b8/kotlin-stdlib-1.6.21.jar!/" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.6.21/5b8f86fea035328fc9e8c660773037a3401ce25f/kotlin-stdlib-1.6.21-javadoc.jar!/" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.6.21/bc58085192d5abb48080e3670915133715a33ce0/kotlin-stdlib-1.6.21-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.6.21">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.6.21/5e5b55c26dbc80372a920aef60eb774b714559b8/kotlin-stdlib-common-1.6.21.jar!/" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.6.21/5b8f86fea035328fc9e8c660773037a3401ce25f/kotlin-stdlib-common-1.6.21-javadoc.jar!/" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.6.21/4161056305b7cdaf52a6fd0c051b06ad03f9bd49/kotlin-stdlib-common-1.6.21-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library name="Gradle: org.jetbrains:annotations:13.0">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar!/" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/73368c3b0887f3adc2c2730dd1b95d7c3781aaf3/annotations-13.0-javadoc.jar!/" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/5991ca87ef1fb5544943d9abc5a9a37583fabe03/annotations-13.0-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="library" scope="TEST" name="Gradle: com.badlogicgames.gdx-controllers:gdx-controllers-android:2.2.1@aar" level="project" />
+  </component>
+  <component name="TestModuleProperties" production-module="Chaos.android.main" />
+</module>

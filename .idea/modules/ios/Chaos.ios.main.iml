@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":ios:main" external.linked.project.path="$MODULE_DIR$/../../../ios" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="Chaos" external.system.module.type="sourceSet" external.system.module.version="1.0" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="4" platform="JVM 1.8" allPlatforms="JVM [1.8]" useProjectSettings="false">
+        <compilerSettings>
+          <option name="additionalArguments" value="-Xallow-no-source-files" />
+        </compilerSettings>
+        <compilerArguments>
+          <option name="destination" value="$MODULE_DIR$/../../../ios/build/classes/kotlin/main" />
+          <option name="classpath" value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-robovm/1.11.0/bedda1c3f9ecf153a9edd245831e620371614d64/gdx-backend-robovm-1.11.0.jar;C:/Users/david/.gradle/caches/modules-2/files-2.1/com.mobidevelop.robovm/robovm-rt/2.3.16/876326afdbbb044cc0224c1f7021cd10d0422b81/robovm-rt-2.3.16.jar;C:/Users/david/.gradle/caches/modules-2/files-2.1/com.mobidevelop.robovm/robovm-cocoatouch/2.3.16/5e3f1d1a102c42a82a88b2f5ca9d1a9c9350e520/robovm-cocoatouch-2.3.16.jar;C:/Users/david/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-platform/1.11.0/a55afe221d06ea79c011fa235971eae22aa9419d/gdx-platform-1.11.0-natives-ios.jar;C:/Users/david/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-freetype-platform/1.11.0/c4c8c613b95b067af4f0928669077e7ad2585206/gdx-freetype-platform-1.11.0-natives-ios.jar;C:/Users/david/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx-controllers/gdx-controllers-ios/2.2.1/9ec1e28671b5af68f578459ea72eb034695d5bdf/gdx-controllers-ios-2.2.1.jar;C:/Users/david/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d-platform/1.11.0/e8bdd69a12469f7a959c41acc99ec73c0b8fee91/gdx-box2d-platform-1.11.0-natives-ios.jar;C:/Users/david/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.6.21/11ef67f1900634fd951bad28c53ec957fabbe5b8/kotlin-stdlib-1.6.21.jar;C:/Users/david/.gradle/caches/modules-2/files-2.1/com.mobidevelop.robovm/robovm-objc/2.3.16/cafceb5042ec443b4e3cc90698df45fabba3b7b3/robovm-objc-2.3.16.jar;C:/Users/david/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-freetype/1.11.0/a3634ad2e6c56d251268d6ab5c0f66eee2841f2c/gdx-freetype-1.11.0.jar;C:/Users/david/.gradle/caches/modules-2/files-2.1/com.badlogicgames.ashley/ashley/1.7.4/21a3a8932919099c4e5006a7d8378dcbe76ef8a5/ashley-1.7.4.jar;C:/Users/david/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-ai/1.8.2/ab75d2ce80ab1b1ce6828a15dc0f417abac4c674/gdx-ai-1.8.2.jar;C:/Users/david/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.11.0/ad4facee800dd945d6d6e93dea2936bc135b5f/gdx-box2d-1.11.0.jar;C:/Users/david/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.11.0/ffe1206d1004cd9e40027e28964be0fea0399af7/gdx-1.11.0.jar;C:/Users/david/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx-controllers/gdx-controllers-core/2.2.1/8aca0dc002a8daf6a6d28f49c44e25189dd93fd7/gdx-controllers-core-2.2.1.jar;C:/Users/david/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.6.21/5e5b55c26dbc80372a920aef60eb774b714559b8/kotlin-stdlib-common-1.6.21.jar;C:/Users/david/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar;C:/Users/david/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-jnigen-loader/2.3.1/2d472f69243631fbcb3d4c3f93dd2e137a6cb084/gdx-jnigen-loader-2.3.1.jar" />
+          <option name="noStdlib" value="true" />
+          <option name="moduleName" value="ios" />
+          <option name="languageVersion" value="1.6" />
+          <option name="apiVersion" value="1.6" />
+          <option name="pluginOptions">
+            <array />
+          </option>
+          <option name="pluginClasspaths">
+            <array>
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-jvm/1.6.21/ab52f6af29c00a8a9c89ea2b34b5f4d27960bd3f/kotlin-scripting-jvm-1.6.21.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-common/1.6.21/2e2e17b6e20c9c44f1d76d0df4f8f0b3fcfa944f/kotlin-scripting-common-1.6.21.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.6.21/11ef67f1900634fd951bad28c53ec957fabbe5b8/kotlin-stdlib-1.6.21.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.6.21/5e5b55c26dbc80372a920aef60eb774b714559b8/kotlin-stdlib-common-1.6.21.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-script-runtime/1.6.21/99c6675100da5d6d5b1c5a1032f27f28008d101b/kotlin-script-runtime-1.6.21.jar" />
+            </array>
+          </option>
+          <option name="errors">
+            <ArgumentParseErrors />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../ios/build/classes/java/main" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../ios/src">
+      <sourceFolder url="file://$MODULE_DIR$/../../../ios/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: com.badlogicgames.gdx:gdx-backend-robovm:1.11.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.mobidevelop.robovm:robovm-rt:2.3.16" level="project" />
+    <orderEntry type="library" name="Gradle: com.mobidevelop.robovm:robovm-cocoatouch:2.3.16" level="project" />
+    <orderEntry type="library" name="Gradle: com.badlogicgames.gdx:gdx-platform:natives-ios:1.11.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.badlogicgames.gdx:gdx-freetype-platform:natives-ios:1.11.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.badlogicgames.gdx-controllers:gdx-controllers-ios:2.2.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.badlogicgames.gdx:gdx-box2d-platform:natives-ios:1.11.0" level="project" />
+    <orderEntry type="module" module-name="Chaos.core.main" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.6.21" level="project" />
+    <orderEntry type="library" name="Gradle: com.mobidevelop.robovm:robovm-objc:2.3.16" level="project" />
+    <orderEntry type="library" name="Gradle: com.badlogicgames.gdx:gdx:1.11.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.badlogicgames.gdx-controllers:gdx-controllers-core:2.2.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.badlogicgames.gdx:gdx-freetype:1.11.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.badlogicgames.ashley:ashley:1.7.4" level="project" />
+    <orderEntry type="library" name="Gradle: com.badlogicgames.gdx:gdx-ai:1.8.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.badlogicgames.gdx:gdx-box2d:1.11.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.6.21" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.badlogicgames.gdx:gdx-jnigen-loader:2.3.1" level="project" />
+  </component>
+</module>

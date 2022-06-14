@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":core:main" external.linked.project.path="$MODULE_DIR$/../../../core" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="Chaos" external.system.module.type="sourceSet" external.system.module.version="1.0" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="4" platform="JVM 1.8" allPlatforms="JVM [1.8]" useProjectSettings="false">
+        <compilerSettings>
+          <option name="additionalArguments" value="-Xallow-no-source-files" />
+        </compilerSettings>
+        <compilerArguments>
+          <option name="destination" value="$MODULE_DIR$/../../../core/build/classes/kotlin/main" />
+          <option name="classpath" value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-freetype/1.11.0/a3634ad2e6c56d251268d6ab5c0f66eee2841f2c/gdx-freetype-1.11.0.jar;C:/Users/david/.gradle/caches/modules-2/files-2.1/com.badlogicgames.ashley/ashley/1.7.4/21a3a8932919099c4e5006a7d8378dcbe76ef8a5/ashley-1.7.4.jar;C:/Users/david/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-ai/1.8.2/ab75d2ce80ab1b1ce6828a15dc0f417abac4c674/gdx-ai-1.8.2.jar;C:/Users/david/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.11.0/ad4facee800dd945d6d6e93dea2936bc135b5f/gdx-box2d-1.11.0.jar;C:/Users/david/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.11.0/ffe1206d1004cd9e40027e28964be0fea0399af7/gdx-1.11.0.jar;C:/Users/david/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx-controllers/gdx-controllers-core/2.2.1/8aca0dc002a8daf6a6d28f49c44e25189dd93fd7/gdx-controllers-core-2.2.1.jar;C:/Users/david/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.6.21/11ef67f1900634fd951bad28c53ec957fabbe5b8/kotlin-stdlib-1.6.21.jar;C:/Users/david/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-jnigen-loader/2.3.1/2d472f69243631fbcb3d4c3f93dd2e137a6cb084/gdx-jnigen-loader-2.3.1.jar;C:/Users/david/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.6.21/5e5b55c26dbc80372a920aef60eb774b714559b8/kotlin-stdlib-common-1.6.21.jar;C:/Users/david/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar" />
+          <option name="noStdlib" value="true" />
+          <option name="moduleName" value="core" />
+          <option name="languageVersion" value="1.6" />
+          <option name="apiVersion" value="1.6" />
+          <option name="pluginOptions">
+            <array />
+          </option>
+          <option name="pluginClasspaths">
+            <array>
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-jvm/1.6.21/ab52f6af29c00a8a9c89ea2b34b5f4d27960bd3f/kotlin-scripting-jvm-1.6.21.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-common/1.6.21/2e2e17b6e20c9c44f1d76d0df4f8f0b3fcfa944f/kotlin-scripting-common-1.6.21.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.6.21/11ef67f1900634fd951bad28c53ec957fabbe5b8/kotlin-stdlib-1.6.21.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.6.21/5e5b55c26dbc80372a920aef60eb774b714559b8/kotlin-stdlib-common-1.6.21.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar" />
+              <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-script-runtime/1.6.21/99c6675100da5d6d5b1c5a1032f27f28008d101b/kotlin-script-runtime-1.6.21.jar" />
+            </array>
+          </option>
+          <option name="errors">
+            <ArgumentParseErrors />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../core/build/classes/java/main" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../core/src">
+      <sourceFolder url="file://$MODULE_DIR$/../../../core/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: com.badlogicgames.gdx:gdx-freetype:1.11.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.badlogicgames.ashley:ashley:1.7.4" level="project" />
+    <orderEntry type="library" name="Gradle: com.badlogicgames.gdx:gdx-ai:1.8.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.badlogicgames.gdx:gdx-box2d:1.11.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.badlogicgames.gdx:gdx:1.11.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.badlogicgames.gdx-controllers:gdx-controllers-core:2.2.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.6.21" level="project" />
+    <orderEntry type="library" name="Gradle: com.badlogicgames.gdx:gdx-jnigen-loader:2.3.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.6.21" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+  </component>
+</module>

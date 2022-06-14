@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Chaos.iml" filepath="$PROJECT_DIR$/.idea/modules/Chaos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android/Chaos.android.iml" filepath="$PROJECT_DIR$/.idea/modules/android/Chaos.android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android/Chaos.android.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/android/Chaos.android.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android/Chaos.android.main.iml" filepath="$PROJECT_DIR$/.idea/modules/android/Chaos.android.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android/Chaos.android.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/android/Chaos.android.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/Chaos.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/Chaos.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/Chaos.core.main.iml" filepath="$PROJECT_DIR$/.idea/modules/core/Chaos.core.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/Chaos.core.test.iml" filepath="$PROJECT_DIR$/.idea/modules/core/Chaos.core.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/desktop/Chaos.desktop.iml" filepath="$PROJECT_DIR$/.idea/modules/desktop/Chaos.desktop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/desktop/Chaos.desktop.main.iml" filepath="$PROJECT_DIR$/.idea/modules/desktop/Chaos.desktop.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/desktop/Chaos.desktop.test.iml" filepath="$PROJECT_DIR$/.idea/modules/desktop/Chaos.desktop.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ios/Chaos.ios.iml" filepath="$PROJECT_DIR$/.idea/modules/ios/Chaos.ios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ios/Chaos.ios.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ios/Chaos.ios.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ios/Chaos.ios.test.iml" filepath="$PROJECT_DIR$/.idea/modules/ios/Chaos.ios.test.iml" />
+    </modules>
+  </component>
+</project>
